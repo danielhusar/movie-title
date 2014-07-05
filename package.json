@@ -1,0 +1,29 @@
+{
+  "name": "movie-title",
+  "version": "0.0.1",
+  "description": "Get nice movie title.",
+  "license": "MIT",
+  "repository": "danielhusar/movie-title",
+  "author": {
+    "name": "Daniel Husar",
+    "email": "dano.husar@gmail.com",
+    "url": "https://github.com/danielhusar"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "movie",
+    "title"
+  ],
+  "devDependencies": {
+    "mocha": "^1.18.2"
+  },
+  "readmeFilename": "readme.md"
+}
