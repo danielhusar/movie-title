@@ -32,7 +32,6 @@ Default: ''
 
 Movie string to search for a title
 
-
 ## License
 
 MIT © [Daniel Husar](https://github.com/danielhusar)
