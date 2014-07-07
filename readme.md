@@ -1,4 +1,5 @@
-# movie-title [![build status][travis-image]][travis-url]
+# movie-title [![Build Status](http://img.shields.io/travis/danielhusar/movie-title.svg?style=flat)](http://travis-ci.org/danielhusar/movie-title)
+
 
 Get the movie and tv show title from the strings like:
 
