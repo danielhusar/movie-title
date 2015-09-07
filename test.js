@@ -20,6 +20,7 @@ it('It should get the proper movie title', function () {
   assert.equal(movieTitle('Requiem.For.A.Dream.DIRECTORS.CUT.2000.720p.BrRip.x264.YIFY.mp4'), 'Requiem For A Dream');
   assert.equal(movieTitle('blow-this.is.where.i.leave.you.2014.1080p.bluray.x264.mkv'), 'this is where i leave you');
   assert.equal(movieTitle('snow-white.bird.in.a.blizzard.2014.limited.720p.bluray.x264.mkv'), 'white bird in a blizzard');
+  assert.equal(movieTitle('12.Monkeys.BluRay.1080p.x264.5.1.Judas.mp4'), '12 Monkeys');
 });
 
 it('It should get the proper tv show title', function () {
