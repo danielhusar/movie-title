@@ -20,7 +20,7 @@ npm install --save movie-title
 ## Example
 
 ```javascript
-var movieTitle = require('movie-title');
+import movieTitle from 'movie-title';
 movieTitle('Einstein.And.Eddington.2008.DVDRip.XviD.avi');
 ```
 
